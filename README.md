@@ -215,4 +215,4 @@ Trend Micro Anti-Spyware is offered as a full free version with all features and
 Don't wait to secure your privacy! Download Trend Micro Anti-Spyware today and enjoy a safer online experience.
 
 ---
-**Last updated:** 2026-09-23 23:27:53 UTC
+**Last updated:** 2026-09-24 03:52:21 UTC
